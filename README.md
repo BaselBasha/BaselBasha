@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Basel and I'm a Full-Stack Developer from Palestine</h2>
+<h2 align="left">Hi 👋! My name is Basel and I'm a Full-Stack Engineer from Palestine</h2>
 
 ###
 
